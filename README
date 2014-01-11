@@ -1,0 +1,14 @@
+[ABOUT]
+PasswordStrength is a jQuery plugin that can be used to measure the strength of. Well. A password.
+
+This is still in development and is not intended for production environments yet.
+
+[To-Do List]
+ - Set password strength to a variable.
+ - Customize the border color.
+ - Option to disable form submission based on password strength.
+ 
+[Changelog]
+
+v0.0.1 [01/10/2014]
+ - Initial Commit
